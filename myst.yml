@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  # title: 
+  # description:
+  keywords: []
+  authors:
+    - name: Kyunghee Lee
+      orcid: 0000-0002-2192-3328
+      affiliations:
+        - id: mcgill
+          institution: McGill University
+          ror: https://ror.org/01pxwe438
+    - name: TA
+    
+  # github:
+  # bibliography: []
+  abbreviations:
+    SQL: Structured Query Language
+    MyST: Markedly Structured Text
+  
+site:
+  template: book-theme
+  title: INSY 336
+  logo: ./images/mcgill_desautels_logo-red-rgb.png
+  logo_dark: ./images/mcgill_desautels_logo-white-on-red-rgb.png
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://mystmd.org/guide
+  domains: []
