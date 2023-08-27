@@ -11,7 +11,7 @@ do this and that
 
 Welcome to INSY336! This course is designed to introduce foundational concepts in Python programming and SQL, integrating them into real-world applications in business analytics. From data extraction to visualization, the course offers a comprehensive journey into the analytical processes that power decision-making in today's data-driven landscape. Explore the site to learn more about the course structure, weekly topics, learning goals, and exciting opportunities for hands-on practice!
 
-## Course structure 
+## Start here
 
 ::::{grid} 1 1 2 3
 

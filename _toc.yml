@@ -17,8 +17,28 @@
 
 format: jb-book
 root: README
-chapters:
-  - file: 01-syllabus
-  - file: 02-week1
-  # - file: 03-assignment1
-  # - file: 04-assignment2
+parts:
+  - caption: Logistics
+    chapters:
+      - file: syllabus
+      - file: tools
+  - caption: Lecture
+    chapters:
+      - file: week1
+      - file: week2
+  - caption: Assignment
+    chapters:
+      - file: the1
+      - file: asgmt1
+  - caption: Exam
+    chapters:
+      # - file: exam1
+
+# chapters:
+#   - file: 01-syllabus
+#   - file: 02-week1
+#   - file: 03-week2
+#   - file: 04-the1
+#   - file: 06-asgmt1
+#   # - file: 03-assignment1
+#   # - file: 04-assignment2

@@ -4,20 +4,16 @@ project:
   # title: 
   # description:
   keywords: []
-  authors:
-    - name: Kyunghee Lee
-      orcid: 0000-0002-2192-3328
-      affiliations:
-        - id: mcgill
-          institution: McGill University
-          ror: https://ror.org/01pxwe438
-    - name: TA
-    
+
   # github:
   # bibliography: []
   abbreviations:
     SQL: Structured Query Language
     MyST: Markedly Structured Text
+    THE: Take-Home Exercise
+    ICE: In-Class Exercise
+    PDA: Python for Data Analysis
+    ABS: Automate the Boring Stuff with Python
   
 site:
   template: book-theme
@@ -25,7 +21,10 @@ site:
   logo: ./images/mcgill_desautels_logo-red-rgb.png
   logo_dark: ./images/mcgill_desautels_logo-white-on-red-rgb.png
   nav: []
-  actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+  # actions:
+  #   - title: Learn More
+  #     url: https://mystmd.org/guide
   domains: []
+  # hide_toc: true
+  # hide_footer_links: true
+  # hide_outline: true
