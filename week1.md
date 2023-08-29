@@ -4,7 +4,7 @@ subject: Lecture
 subtitle: Course logistics, programming fundamentals, pseudocode
 ---
 
-This module introduces students to the course structure and fundamental concepts of programming. Students will learn how to build a simple program using Scratch, a block-based visual programming language developed by MIT (scratch.mit.edu).
+This module introduces students to the course structure and fundamental concepts of programming. Students will learn how to build a simple program using Scratch, a block-based visual programming language (scratch.mit.edu).
 
 :::{important} Module goals
 1. Understand the course structure
@@ -20,8 +20,8 @@ This module introduces students to the course structure and fundamental concepts
 * Scratch: [![](images/slides-pdf-blue-adobeacrobatreader)][pdf link2]
 
 **Readings:**
-* [Syllabus](/syllabus)
-* [Course Tools](/tools)
+* [Syllabus](syllabus)
+* [Course Tools](tools)
 :::
 
 [pdf link1]: https://khlee42.github.io/datahandling-content/slides/intro.pdf
