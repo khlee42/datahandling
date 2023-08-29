@@ -1,17 +1,16 @@
 ---
 title: THE1 - Introduction to Python
 subject: Take-Home Exercise
-subtitle: subtitle
-keywords: intro, Scratch
+# subtitle: subtitle
 ---
 
+[![](images/launch-datacamp-blue-datacamp.svg)][datacamp link]
+
 :::{important} Important Dates
-* **Assigned date:** 2021-09-10
-* **Due date:** 2021-09-17 23:59:59
+* **Assigned date:** 2023-09-07
+* **Due date:** 2023-09-14 (before class)
 * **Late penalty:** -10% per day
 :::
-
-* **Open in DataCamp:** [![](https://img.shields.io/badge/launch-datacamp-blue?logo=datacamp)][datacamp link]
 
 * Complete **the chapter 1, 2, and 3** of the course
 * You can also access the assignment through your DataCamp dashboard
