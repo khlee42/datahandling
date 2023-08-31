@@ -19,9 +19,12 @@ This module introduces students to the course structure and fundamental concepts
 
 * Scratch: [![](images/slides-pdf-blue-adobeacrobatreader)][pdf link2]
 
+**Labs:** 
+* [ICE0](assets/ICE0.sb3)
+
 **Readings:**
 * [Syllabus](syllabus)
-* [Course Tools](tools)
+<!-- * [Course Tools](tools) -->
 :::
 
 [pdf link1]: https://khlee42.github.io/datahandling-content/slides/intro.pdf
