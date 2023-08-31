@@ -42,25 +42,25 @@ These textbooks are freely available online. You can purchase a hardcopy if you 
 * ABS: [Automate the Boring Stuff with Python](~https://automatetheboringstuff.com/#toc~)
 
 ## Tools
-In this course, we will leverage a diverse set of tools to ensure an engaging and effective learning experience. We will begin with `Scratch`, an intuitive visual programming environment that lays the groundwork for understanding fundamental programming concepts. Transitioning from Scratch, we will dive into Python programming through `EdStem`, a cloud-based platform that offers a seamless environment for writing and executing `Python` code. Furthermore, we will explore data manipulation and persistence using `SQLite`, a lightweight database engine that integrates smoothly with Python. Additionally, we will utilize `DataCamp`, an interactive learning platform that offers tailored exercises and challenges to reinforce the course's theoretical content. Through the integration of these varied tools, students will gain a comprehensive understanding of the subject matter, enabling them to apply the skills learned in real-world scenarios, all within an accessible and supportive learning environment.
+In this course, we will leverage a diverse set of tools to ensure an engaging and effective learning experience. We will dive into Python programming through `EdStem`, a cloud-based platform that offers a seamless environment for writing and executing `Python` code. Furthermore, we will explore data manipulation and persistence using `SQLite`, a lightweight database engine that integrates smoothly with Python. Additionally, we will utilize `DataCamp`, an interactive learning platform that offers tailored exercises and challenges to reinforce the course's theoretical content. Through the integration of these varied tools, students will gain a comprehensive understanding of the subject matter, enabling them to apply the skills learned in real-world scenarios, all within an accessible and supportive learning environment.
 
 ## Evaluation
 ### Participation
 Your participation grade is based on attendance, active engagement in class discussions, and professionalism. Consistent attendance and active involvement in class activities, including asking and answering questions, are key factors in earning participation points. Note that disruptive behavior or lack of engagement may negatively impact this portion of your grade.
 
-### In-Class exercise (ICE)
+### In-Class exercise
 Each week, lab materials will be made available to complement the lecture topics, serving as a practical platform for hands-on coding practice. These labs feature guided tutorials that walk students through coding tasks within an interactive environment.
-In addition to the lab tutorials, each session will incorporate in-class exercises. These exercises consist of straightforward coding challenges intended for completion during class time. Students are expected to actively engage with these in-class exercises, complete them alongside the lab materials, and submit their responses for review.
+In addition to the lab tutorials, each session will incorporate in-class exercises. These exercises consist of straightforward coding challenges intended for completion during class time. Students are expected to actively engage with these in-class exercises and complete them alongside the lab materials. These exercises won't be graded.
 
 ### Take-Home exercise (THE)
 To reinforce the skills and concepts taught in class, students will be given access to specially designed exercises hosted on DataCamp, a leading online platform for learning coding. These take-home exercises include both tutorials and interactive coding challenges, allowing for thorough practice in a self-paced environment. Students may attempt these exercises multiple times up to the specified due date, and will receive a pass/fail grade based on their completion status.
 | Take-Home exercise | Topic                |
 |--------------------|----------------------|
-| THE1               | Functions, variables |
-| THE2               | Control              |
-| THE3               | Data manipulation    |
-| THE4               | SQL                  |
-| THE5               | Visualization        |
+| THE1 (2)               | Functions, variables |
+| THE2 (2)               | Control              |
+| THE3 (2)               | Data manipulation    |
+| THE4 (2)               | SQL                  |
+| THE5 (2)               | Visualization        |
 
 ### Assignment (ASMT)
 Assignments serve as a cornerstone of the course, offering students an opportunity to apply and integrate their newly acquired skills in a real-world context. Each assignment will focus on distinct programming tasks that span the topics covered in class, progressing from individual techniques to comprehensive, end-to-end Extract-Transform-Load (ETL) processes.
@@ -68,16 +68,17 @@ Students will be tasked with retrieving data from APIs, cleaning and transformin
 
 | ****Assignment**** | ****Topic****                                                |
 |--------------------|--------------------------------------------------------------|
-| ASMT1              | Create a Python program to fetch and process data from a web API. |
-| ASMT2              | Execute SQL queries to design, populate, and interact with a database. |
-| ASMT3              | Construct a Python program to complete an ETL process: extract data from a web API, transform it, and load it into a SQL database. |
+| ASMT1 (5)              | Create a Python program to fetch and process data from a web API. |
+| ASMT2 (10)             | Execute SQL queries to design, populate, and interact with a database. |
+| ASMT3 (10)             | Construct a Python program to complete an ETL process: extract data from a web API, transform it, and load it into a SQL database. |
+
 ### Quiz
 The quizzes aim to assess students' understanding of the course material and their ability to apply learned concepts within a timed environment. These assessments will cover crucial aspects of programming, from foundational skills to more specialized topics.
 
 | ****Exam**** | ****Topic****                         |
 |--------------|---------------------------------------|
-| Quiz 1       | Fundamentals of Programming in Python |
-| Quiz 2       | Data Manipulation and Loading in SQL  |
+| Quiz 1 (15)      | Fundamentals of Programming in Python |
+| Quiz 2 (15)      | Data Manipulation and Loading in SQL  |
 
 Each quiz will feature a mix of multiple-choice questions, short-answer queries, and hands-on coding challenges, all administered in class within a fixed timeframe. Students are encouraged to actively engage with course materials and in-class exercises as part of their preparation for these assessments.
 
@@ -90,9 +91,8 @@ Your final grade for the course will be calculated based on the cumulative point
 | ****Component****  | ****Weight (%)**** |
 |--------------------|--------------------|
 | Participation      | 5                  |
-| In-Class Exercise  | 10                 |
 | Take-Home Exercise | 10                 |
-| Assignment         | 15                 |
+| Assignment         | 25                 |
 | Quiz               | 30                 |
 | Final Exam         | 30                 |
 
@@ -122,29 +122,28 @@ Exams must be taken as scheduled. Deferrals will not be granted except in rare a
 Please note that failure to adhere to these policies or to communicate promptly with the instructor may result in a loss of marks or other academic penalties. It is the student's responsibility to be aware of and understand these policies and to act in accordance with them.
 
 ## Schedule
-| Week | Title                          | Topic                                                        | ICE*  | THE* | ASMT** |
-|------|--------------------------------|--------------------------------------------------------------|-------|------|--------|
-| 1    | Introduction to Data Analytics | Class logistics; fundamentals of programming; pseudocode     |       |      |        |
-| 2    | Representation                 | Jupyter notebook, Variables, operators                       | ICE1  | THE1 |        |
-| 3    | Control                        | Conditionals, loops                                          | ICE2  | THE2 |        |
-| 4    | Abstraction                    | Functions, modules, libraries; API; docstring                | ICE3  |      | ASMT1  |
-| 5    | Quiz 1                         |                                                              |       |      |        |
-| 6    | Reading break                  |                                                              |       |      |        |
-| 7    | Data manipulation in Pandas    | Tabular data; summarize, select, filter, sort, aggregate, join | ICE4  | THE3 |        |
-| 8    | Data manipultation in SQL      | SQLite; summarize, select, filter, sort, aggregate, join     | ICE5  | THE4 |        |
-| 9    | Data loading in SQL            | create, insert, update                                       | ICE6  |      | ASMT2  |
-| 10   | Quiz 2                         |                                                              |       |      |        |
-| 11   | ETL in Python - 1              | JSON, extract, transform                                     | ICE7  |      |        |
-| 12   | ETL in Python - 2              | Create and populate db                                       | ICE8  |      |        |
-| 13   | ETL in Python - 3              | Query db                                                     | ICE9  | THE5 | ASMT3  |
-| 14   | Review and Q&A                 |                                                              | ICE10 |      |        |
-| 15   | Final exam                     |                                                              |       |      |        |
+| Week | Title                          | Topic                                                        | THE* | ASMT** |
+|------|--------------------------------|--------------------------------------------------------------|------|--------|
+| 1    | Introduction to Data Analytics | Class logistics; fundamentals of programming; pseudocode     |      |        |
+| 2    | Representation                 | Jupyter notebook, Variables, operators                       | THE1 |        |
+| 3    | Control                        | Conditionals, loops                                          | THE2 |        |
+| 4    | Abstraction                    | Functions, modules, libraries; API; docstring                |      | ASMT1  |
+| 5    | Quiz 1                         |                                                              |      |        |
+| 6    | Reading break                  |                                                              |      |        |
+| 7    | Data manipulation in Pandas    | Tabular data; summarize, select, filter, sort, aggregate, join | THE3 |        |
+| 8    | Data manipultation in SQL      | SQLite; summarize, select, filter, sort, aggregate, join     | THE4 |        |
+| 9    | Data loading in SQL            | create, insert, update                                       |      | ASMT2  |
+| 10   | Quiz 2                         |                                                              |      |        |
+| 11   | ETL in Python - 1              | JSON, extract, transform                                     |      |        |
+| 12   | ETL in Python - 2              | Create and populate db                                       | THE5 |        |
+| 13   | ETL in Python - 3              | Query db                                                     |      | ASMT3  |
+| 14   | Review and Q&A                 |                                                              |      |        |
+| 15   | Final exam                     |                                                              |      |        |
 
 :::{caution} Due dates
-*: Due in one week (ICE, THE)  
+*: Due in one week (THE)  
 ** Due in two weeks (ASMT)
 :::
-
 
 ## Academic integrity
 McGill University values academic integrity. Therefore, all students must understand the meaning and consequences of cheating, plagiarism and other academic offences under the [Code of Student Conduct and Disciplinary Procedures](~https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf~) (Approved by Senate on 29 January 2003) (See [McGill’s guide to academic honesty](~http://www.mcgill.ca/students/srr/honest/~) for more information). 
