@@ -129,16 +129,15 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | 3    | Control                        | Conditionals, loops                                          | THE2 |        |
 | 4    | Abstraction                    | Functions, modules, libraries; API; docstring                |      | ASMT1  |
 | 5    | Quiz 1                         |                                                              |      |        |
-| 6    | Reading break                  |                                                              |      |        |
-| 7    | Data manipulation in Pandas    | Tabular data; summarize, select, filter, sort, aggregate, join | THE3 |        |
-| 8    | Data manipultation in SQL      | SQLite; summarize, select, filter, sort, aggregate, join     | THE4 |        |
-| 9    | Data loading in SQL            | create, insert, update                                       |      | ASMT2  |
-| 10   | Quiz 2                         |                                                              |      |        |
-| 11   | ETL in Python - 1              | JSON, extract, transform                                     |      |        |
-| 12   | ETL in Python - 2              | Create and populate db                                       | THE5 |        |
-| 13   | ETL in Python - 3              | Query db                                                     |      | ASMT3  |
-| 14   | Review and Q&A                 |                                                              |      |        |
-| 15   | Final exam                     |                                                              |      |        |
+| 6    | Data manipulation in Pandas    | Tabular data; summarize, select, filter, sort, aggregate, join | THE3 |        |
+| 7    | Data manipultation in SQL      | SQLite; summarize, select, filter, sort, aggregate, join     | THE4 |        |
+| 8    | Data loading in SQL            | create, insert, update                                       |      | ASMT2  |
+| 9    | Quiz 2                         |                                                              |      |        |
+| 10   | ETL in Python - 1              | JSON, extract, transform                                     |      |        |
+| 11   | ETL in Python - 2              | Create and populate db                                       | THE5 |        |
+| 12   | ETL in Python - 3              | Query db                                                     |      | ASMT3  |
+| 13   | Review and Q&A                 |                                                              |      |        |
+| 14   | Final exam                     |                                                              |      |        |
 
 :::{caution} Due dates
 *: Due in one week (THE)  
