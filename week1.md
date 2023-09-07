@@ -27,5 +27,5 @@ This session introduces students to the course structure and fundamental concept
 <!-- * [Course Tools](tools) -->
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content/slides/intro.pdf
-[pdf link2]: https://khlee42.github.io/datahandling-content/slides/scratch.pdf
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/intro.pdf
+[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/scratch.pdf
