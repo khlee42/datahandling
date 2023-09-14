@@ -125,20 +125,19 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | Week | Title                          | Topic                                                        | THE* | ASMT** |
 |------|--------------------------------|--------------------------------------------------------------|------|--------|
 | 1    | Introduction to Data Analytics | Class logistics; fundamentals of programming; pseudocode     |      |        |
-| 2    | Representation                 | Jupyter notebook, Variables, operators                       | THE1 |        |
-| 3    | Control                        | Conditionals, loops                                          | THE2 |        |
-| 4    | Abstraction                    | Functions, modules, libraries; API; docstring                |      | ASMT1  |
+| 2    | Representation                 | Jupyter notebook, functions, variables                       | THE1 |        |
+| 3    | Control                        | Conditionals                                                 | THE2 |        |
+| 4    | Control                        | Loops                                                        |      |        |
 | 5    | Quiz 1                         |                                                              |      |        |
 | 6    | Data manipulation in Pandas    | Tabular data; summarize, select, filter, sort, aggregate, join | THE3 |        |
-| 7    | Data manipultation in SQL      | SQLite; summarize, select, filter, sort, aggregate, join     | THE4 |        |
-| 8    | Data loading in SQL            | create, insert, update                                       |      | ASMT2  |
+| 7    | Data manipultation in SQL      | SQL; summarize, select, filter, sort, aggregate, join        | THE4 |        |
+| 8    | Data loading in SQL            | SQL; create, insert, update                                  |      | ASMT1  |
 | 9    | Quiz 2                         |                                                              |      |        |
-| 10   | ETL in Python - 1              | JSON, extract, transform                                     |      |        |
+| 10   | ETL in Python - 1              | Libraries, API, JSON, extract, transform                     |      | ASMT2  |
 | 11   | ETL in Python - 2              | Create and populate db                                       | THE5 |        |
 | 12   | ETL in Python - 3              | Query db                                                     |      | ASMT3  |
 | 13   | Review and Q&A                 |                                                              |      |        |
 | 14   | Final exam                     |                                                              |      |        |
-
 :::{caution} Due dates
 *: Due in one week (THE)  
 ** Due in two weeks (ASMT)
