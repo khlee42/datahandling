@@ -122,22 +122,22 @@ Exams must be taken as scheduled. Deferrals will not be granted except in rare a
 Please note that failure to adhere to these policies or to communicate promptly with the instructor may result in a loss of marks or other academic penalties. It is the student's responsibility to be aware of and understand these policies and to act in accordance with them.
 
 ## Schedule
-| Week | Title                          | Topic                                                        | THE* | ASMT** |
-|------|--------------------------------|--------------------------------------------------------------|------|--------|
-| 1    | Introduction to Data Analytics | Class logistics; fundamentals of programming; pseudocode     |      |        |
-| 2    | Representation                 | Jupyter notebook, functions, variables                       | THE1 |        |
-| 3    | Control                        | Conditionals                                                 | THE2 |        |
-| 4    | Control                        | Loops                                                        |      |        |
-| 5    | Quiz 1                         |                                                              |      |        |
-| 6    | Data manipulation in Pandas    | Tabular data; summarize, select, filter, sort, aggregate, join | THE3 |        |
-| 7    | Data manipultation in SQL      | SQL; summarize, select, filter, sort, aggregate, join        | THE4 |        |
-| 8    | Data loading in SQL            | SQL; create, insert, update                                  |      | ASMT1  |
-| 9    | Quiz 2                         |                                                              |      |        |
-| 10   | ETL in Python - 1              | Libraries, API, JSON, extract, transform                     |      | ASMT2  |
-| 11   | ETL in Python - 2              | Create and populate db                                       | THE5 |        |
-| 12   | ETL in Python - 3              | Query db                                                     |      | ASMT3  |
-| 13   | Review and Q&A                 |                                                              |      |        |
-| 14   | Final exam                     |                                                              |      |        |
+| Week | Title                          | Topic                                                    | THE* | ASMT** |
+|------|--------------------------------|----------------------------------------------------------|------|--------|
+| 1    | Introduction to Data Analytics | Class logistics; fundamentals of programming; pseudocode |      |        |
+| 2    | Representation                 | Jupyter notebook, functions, variables                   | THE1 |        |
+| 3    | Control                        | Conditionals                                             | THE2 |        |
+| 4    | Control                        | Loops                                                    |      |        |
+| 5    | Quiz 1                         |                                                          |      |        |
+| 6    | Data manipulation in Pandas    | Pandas; summarize, select, filter, sort, aggregate, join | THE3 |        |
+| 7    | Data manipultation in SQL      | SQL; summarize, select, filter, sort, aggregate, join    | THE4 |        |
+| 8    | Data loading in SQL            | SQL; create, insert, update                              |      | ASMT1  |
+| 9    | Quiz 2                         |                                                          |      |        |
+| 10   | ETL in Python - 1              | API, JSON, extract, transform                            |      | ASMT2  |
+| 11   | ETL in Python - 2              | Create and populate db                                   | THE5 |        |
+| 12   | ETL in Python - 3              | Query db                                                 |      | ASMT3  |
+| 13   | Review and Q&A                 |                                                          |      |        |
+| 14   | Final exam                     |                                                          |      |        |
 :::{caution} Due dates
 *: Due in one week (THE)  
 ** Due in two weeks (ASMT)
