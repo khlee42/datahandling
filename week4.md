@@ -31,4 +31,4 @@ In this lab session, we will delve into the building blocks of control flow, par
 [pda link]: https://wesmckinney.com/book/python-builtin
 [abs link1]: https://automatetheboringstuff.com/2e/chapter2/
 [abs link2]: https://automatetheboringstuff.com/2e/chapter4/
-[abs link]: https://automatetheboringstuff.com/2e/chapter5/
+[abs link3]: https://automatetheboringstuff.com/2e/chapter5/
