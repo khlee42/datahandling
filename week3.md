@@ -4,7 +4,7 @@ subject: Lecture
 subtitle: conditional, if, bool
 ---
 
-In this lab session, we will delve into the building blocks of control flow, particularly looking at how to create and use conditional statements. The objectives also include exploring nested conditions, understanding how to employ various comparison operators, and learning the role of logical operators in decision-making.
+In this session, we will delve into the building blocks of control flow, particularly looking at how to create and use conditional statements. The objectives also include exploring nested conditions, understanding how to employ various comparison operators, and learning the role of logical operators in decision-making.
 
 :::{important} Goals
 1. Conditional Statements and Boolean Expressions

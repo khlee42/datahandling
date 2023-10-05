@@ -4,7 +4,7 @@ subject: Lecture
 subtitle: loop, for, while, list, dict
 ---
 
-In this lab session, we will delve into the building blocks of control flow, particularly looking at how to create and use loops. We will also explore the Python data structures, list and dictionary, and learn how to use them in loops.
+In this session, we will delve into the building blocks of control flow, particularly looking at how to create and use loops. We will also explore the Python data structures, list and dictionary, and learn how to use them in loops.
 
 :::{important} Goals
 1. How to repeat a task using loops
