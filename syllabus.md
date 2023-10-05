@@ -38,8 +38,8 @@ By the end of this course, students will be able to:
 
 ## Textbooks
 These textbooks are freely available online. You can purchase a hardcopy if you prefer.
-* PDA: [Python for Data Analysis, 3E](~https://wesmckinney.com/book/~)
-* ABS: [Automate the Boring Stuff with Python](~https://automatetheboringstuff.com/#toc~)
+* PDA: [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+* ABS: [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/#toc)
 
 ## Tools
 In this course, we will leverage a diverse set of tools to ensure an engaging and effective learning experience. We will dive into Python programming through `EdStem`, a cloud-based platform that offers a seamless environment for writing and executing `Python` code. Furthermore, we will explore data manipulation and persistence using `SQLite`, a lightweight database engine that integrates smoothly with Python. Additionally, we will utilize `DataCamp`, an interactive learning platform that offers tailored exercises and challenges to reinforce the course's theoretical content. Through the integration of these varied tools, students will gain a comprehensive understanding of the subject matter, enabling them to apply the skills learned in real-world scenarios, all within an accessible and supportive learning environment.
@@ -129,9 +129,9 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | 3    | Control                        | Conditionals                                             | THE2 |        |
 | 4    | Control                        | Loops                                                    |      |        |
 | 5    | Quiz 1                         |                                                          |      |        |
-| 6    | Data manipulation in Pandas    | Pandas; summarize, select, filter, sort, aggregate, join | THE3 |        |
-| 7    | Data manipultation in SQL      | SQL; summarize, select, filter, sort, aggregate, join    | THE4 |        |
-| 8    | Data loading in SQL            | SQL; create, insert, update                              |      | ASMT1  |
+| 7    | Data manipultation in SQL      | Basic SQL; select, filter, sort                          | THE3 |        |
+| 8    | Data loading in SQL            | Advanced SQL; aggregate, join, create, insert, update    |      | ASMT1  |
+| 6    | Data manipulation in Pandas    | Pandas; select, filter, sort, aggregate, join            | THE4 |        |
 | 9    | Quiz 2                         |                                                          |      |        |
 | 10   | ETL in Python - 1              | API, JSON, extract, transform                            |      | ASMT2  |
 | 11   | ETL in Python - 2              | Create and populate db                                   | THE5 |        |
