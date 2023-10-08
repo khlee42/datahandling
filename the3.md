@@ -7,7 +7,7 @@ subject: Take-Home Exercise
 [![](images/launch-datacamp-blue-datacamp.svg)][datacamp link]
 
 :::{important}
-* Course: Intermediate Python
+* Course: Intermediate SQL Queries
 * Complete Chapter 1, 2, 3, 4
 * **Assigned date:** 2023-10-05
 * **Due date:** 2023-10-19 (before class)
