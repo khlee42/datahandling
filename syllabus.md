@@ -130,7 +130,7 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | 4    | Control                        | Loops                                                    |      |        |
 | 5    | Quiz 1                         |                                                          |      |        |
 | 7    | Data manipultation in SQL      | Basic SQL; select, filter, sort                          | THE3 |        |
-| 8    | Data loading in SQL            | Advanced SQL; aggregate, join, create, insert, update    |      | ASMT1  |
+| 8    | Data loading in SQL            | Advanced SQL; aggregate, join, create, insert            |      | ASMT1  |
 | 6    | Data manipulation in Pandas    | Pandas; select, filter, sort, aggregate, join            | THE4 |        |
 | 9    | Quiz 2                         |                                                          |      |        |
 | 10   | ETL in Python - 1              | API, JSON, extract, transform                            |      | ASMT2  |
