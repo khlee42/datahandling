@@ -15,6 +15,7 @@ project:
     ASMT: Assignment
     PDA: Python for Data Analysis
     ABS: Automate the Boring Stuff with Python
+    ETL: Extract, Transform, Load
   
 site:
   template: book-theme
