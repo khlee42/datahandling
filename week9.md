@@ -17,9 +17,9 @@ This session will introduce the `requests` library, which is a powerful tool for
 
 **Slides:** 
 
-* SQL in Python: [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link1]
+* API: [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link1]
 
-* Pandas: [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link2]
+* ETL: [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link2]
 
 **Labs:** [![](images/launch-lesson-blue-ed.svg)][notebook link]
 
