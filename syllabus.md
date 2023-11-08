@@ -134,7 +134,7 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | 8    | Data manipulation in Pandas    | Pandas; select, filter, sort, aggregate, join            | THE4 |        |
 | 9    | Quiz 2                         |                                                          |      |        |
 | 10   | ETL in Python - 1              | API, JSON, requests, sqlite3                             |      | ASMT2  |
-| 11   | ETL in Python - 2              | Advanced Pandas                                          | THE5 |        |
+| 11   | ETL in Python - 2              | ETL and Data Exploration with Pandas                     | THE5 |        |
 | 12   | ETL in Python - 3              | Query db                                                 |      | ASMT3  |
 | 13   | Review and Q&A                 |                                                          |      |        |
 | 14   | Final exam                     |                                                          |      |        |

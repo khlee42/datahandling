@@ -33,6 +33,7 @@ parts:
       - file: week7
       - file: week8
       - file: week9
+      - file: week10
   - caption: Coursework
     chapters:
       - file: the1
@@ -43,6 +44,7 @@ parts:
       - file: the4
       - file: mock2
       - file: asmt2
+      - file: the5
   # - caption: Exam
   #   chapters:
   #     # - file: exam1
