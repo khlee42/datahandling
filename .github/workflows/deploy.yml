@@ -34,7 +34,8 @@ jobs:
       - name: Install MyST Markdown
         run: npm install -g mystmd
       - name: Install cwebP
-        run: npm install -g cwebp
+        # run: npm install -g cwebp
+        run: curl -s https://raw.githubusercontent.com/Intervox/node-webp/latest/bin/install_webp | sudo bash
       - name: Build HTML Assets
         run: myst build --html
       - name: Upload artifact
