@@ -32,9 +32,9 @@ parts:
       - file: week6
       - file: week7
       - file: week8
-      - file: week9
       - file: week10
       - file: week11
+      - file: week12
   - caption: Coursework
     chapters:
       - file: the1

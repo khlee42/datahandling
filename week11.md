@@ -1,16 +1,16 @@
 ---
-title: Week 11 - ETL and Sentiment Analysis
+title: Week 11 - ETL and Data Exploration with Pandas
 subject: Lecture
-subtitle: reddit, textblob, sentiment analysis
+subtitle: data cleaning, wrangling, and visualization, pandas, plotly
 ---
 
-This session will reinforce the skills you learned in the previous lesson on ETL and Pandas. From there, we will continue onto sentiment analysis with TextBlob.
+This session will reinforce the skills you learned in the previous lesson on ETL and Pandas. From there, we will continue onto advanced Pandas topics and data visualization with Pandas and Plotly.
 
 :::{important} Goals
 1. Reinforce ETL skills
-2. Apply text analysis techniques to social media data
-3. Understand the relationship between public sentiment on social media and cryptocurrency market movements
-4. Create visualizations that communicate the results effectively
+2. Fetch data from database
+3. Data cleaning and wrangling with Pandas
+4. Data visualization with Pandas and Plotly
 :::
 
 :::{tip} Course Materials
@@ -26,8 +26,8 @@ This session will reinforce the skills you learned in the previous lesson on ETL
 
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/etl_sentiment.pdf
-[notebook link]: https://edstem.org/us/courses/46034/lessons/81721
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/pandasadvanced_ws.pdf
+[notebook link]: https://edstem.org/us/courses/46034/lessons/81020
 [pda link1]: https://wesmckinney.com/book/data-cleaning
 [pda link2]: https://wesmckinney.com/book/data-aggregation
 [plotly link]: https://plotly.com/python/plotly-express/

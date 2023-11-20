@@ -133,11 +133,12 @@ Please note that failure to adhere to these policies or to communicate promptly 
 | 7    | Data loading in SQL            | Advanced SQL; aggregate, join, create, insert            |      | ASMT1  |
 | 8    | Data manipulation in Pandas    | Pandas; select, filter, sort, aggregate, join            | THE4 |        |
 | 9    | Quiz 2                         |                                                          |      |        |
-| 10   | ETL in Python - 1              | API, JSON, requests, sqlite3                             |      | ASMT2  |
-| 11   | ETL in Python - 2              | ETL and Data Exploration with Pandas                     | THE5 |        |
-| 12   | ETL in Python - 3              | Query db                                                 |      | ASMT3  |
+| 10   | ETL in Python - 1              | API, JSON, extract, transform, load                      |      | ASMT2  |
+| 11   | ETL in Python - 2              | ETL and Data Exploration                                 | THE5 |        |
+| 12   | ETL in Python - 3              | ETL and Sentiment analysis                               |      | ASMT3  |
 | 13   | Review and Q&A                 |                                                          |      |        |
 | 14   | Final exam                     |                                                          |      |        |
+
 :::{caution} Due dates
 *: Due in one week (THE)  
 ** Due in two weeks (ASMT)

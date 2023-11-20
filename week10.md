@@ -1,33 +1,38 @@
 ---
-title: Week 10 - ETL and Data Exploration with Pandas
+title: Week 10 - Extract, Transform, Load (ETL)
 subject: Lecture
-subtitle: data cleaning, wrangling, and visualization, pandas, plotly
+subtitle: API, JSON, requests, sqlite3
 ---
 
-This session will reinforce the skills you learned in the previous lesson on ETL and Pandas. From there, we will continue onto advanced Pandas topics and data visualization with Pandas and Plotly.
+This session will introduce the `requests` library, which is a powerful tool for making API requests in Python. We'll learn how to read API documentation, make API request calls, parse JSON responses, and load data into a database.
 
 :::{important} Goals
-1. Reinforce ETL skills
-2. Fetch data from database
-3. Data cleaning and wrangling with Pandas
-4. Data visualization with Pandas and Plotly
+1. Understand how to read API documentation
+2. Make API request calls using the `requests` library
+3. Parse JSON responses
+4. Load data into a database
 :::
 
 :::{tip} Course Materials
 
-**Slides:** [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link1]
+**Slides:** 
+
+* API: [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link1]
+
+* ETL: [![](images/slides-pdf-blue-adobeacrobatreader.svg)][pdf link2]
 
 **Labs:** [![](images/launch-lesson-blue-ed.svg)][notebook link]
 
 **Resources:**
-* PDA: [Data Cleaning and Preparation][pda link1]
-* PDA: [Data Aggregation and Group Operations][pda link2]
-* [Plotly Express in Python][plotly link]
+* PDA: [Data Loading, Storage, and File Formats][pda link1]
+* ABS: [Web Scraping][abs link1]
+* ABS: [List of JSON APIs][abs link2]
 
 :::
 
-[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/pandasadvanced_ws.pdf
-[notebook link]: https://edstem.org/us/courses/46034/lessons/81020
-[pda link1]: https://wesmckinney.com/book/data-cleaning
-[pda link2]: https://wesmckinney.com/book/data-aggregation
-[plotly link]: https://plotly.com/python/plotly-express/
+[pdf link1]: https://khlee42.github.io/datahandling-content-pdf/api_ws.pdf
+[pdf link2]: https://khlee42.github.io/datahandling-content-pdf/etl_ws.pdf
+[notebook link]: https://edstem.org/us/courses/46034/lessons/80527
+[pda link1]: https://wesmckinney.com/book/accessing-data
+[abs link1]: https://automatetheboringstuff.com/2e/chapter12/
+[abs link2]: https://automatetheboringstuff.com/list-of-json-apis.html
