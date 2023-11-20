@@ -47,6 +47,11 @@ parts:
       - file: asmt2
       - file: the5
       - file: asmt3
+        sections:
+          - file: hint0
+          - file: hint1
+          - file: hint2
+          - file: hint3
   # - caption: Exam
   #   chapters:
   #     # - file: exam1
